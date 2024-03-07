@@ -1,0 +1,39 @@
+/* AdminScreen.css */
+.AdminScreen {
+    text-align: center;
+  }
+  
+  .AdminScreen h1 {
+    color: #3498db;
+  }
+  
+  .AdminScreen h2 {
+    color: #2ecc71;
+  }
+  
+  .AdminScreen input {
+    padding: 8px;
+    margin: 8px;
+  }
+  
+  .AdminScreen button {
+    padding: 10px;
+    margin: 8px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .AdminScreen ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .AdminScreen li {
+    margin: 8px;
+    padding: 10px;
+    background-color: #ecf0f1;
+    border-radius: 5px;
+  }
+  

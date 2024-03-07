@@ -1,0 +1,39 @@
+/* ManagerScreen.css */
+.ManagerScreen {
+    text-align: center;
+  }
+  
+  .ManagerScreen h1 {
+    color: #e74c3c;
+  }
+  
+  .ManagerScreen h2 {
+    color: #2ecc71;
+  }
+  
+  .ManagerScreen input {
+    padding: 8px;
+    margin: 8px;
+  }
+  
+  .ManagerScreen button {
+    padding: 10px;
+    margin: 8px;
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .ManagerScreen ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .ManagerScreen li {
+    margin: 8px;
+    padding: 10px;
+    background-color: #ecf0f1;
+    border-radius: 5px;
+  }
+  
